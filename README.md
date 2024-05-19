@@ -97,6 +97,87 @@ https://manual.calibre-ebook.com/de/
 
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+
+<details>
+<summary>Was ist Calibre?</summary>
+Calibre ist ein kostenloses Programm, mit dem du deine E-Books verwalten, konvertieren und lesen kannst. Es unterstützt viele verschiedene Dateiformate und bietet zahlreiche Funktionen, um deine E-Book-Sammlung zu organisieren.
+</details>
+
+<details>
+<summary>Wie installiere ich Calibre?</summary>
+1. Besuche die Website [Calibre](https://calibre-ebook.com/).
+2. Klicke auf den Download-Button und wähle dein Betriebssystem aus (Windows, macOS oder Linux).
+3. Folge den Anweisungen zur Installation. Normalerweise musst du einfach die heruntergeladene Datei öffnen und den Anweisungen auf dem Bildschirm folgen.
+</details>
+
+<details>
+<summary>Wie füge ich Bücher zu meiner Bibliothek hinzu?</summary>
+1. Öffne Calibre.
+2. Klicke auf den Button "Bücher hinzufügen" in der oberen linken Ecke.
+3. Wähle die Datei oder die Dateien, die du hinzufügen möchtest, von deinem Computer aus.
+4. Die Bücher werden jetzt in deine Calibre-Bibliothek importiert.
+</details>
+
+<details>
+<summary>Wie konvertiere ich ein E-Book in ein anderes Format?</summary>
+1. Wähle das Buch aus, das du konvertieren möchtest, indem du darauf klickst.
+2. Klicke auf den Button "Bücher konvertieren" in der Menüleiste.
+3. Wähle das gewünschte Ausgabeformat aus (zum Beispiel EPUB, PDF, MOBI).
+4. Klicke auf "OK", um die Konvertierung zu starten.
+5. Das konvertierte Buch wird in deiner Bibliothek gespeichert.
+</details>
+
+<details>
+<summary>Wie übertrage ich Bücher auf meinen E-Reader?</summary>
+1. Schließe deinen E-Reader mit einem USB-Kabel an deinen Computer an.
+2. Calibre sollte deinen E-Reader automatisch erkennen.
+3. Wähle das Buch oder die Bücher, die du übertragen möchtest, in Calibre aus.
+4. Klicke auf den Button "An Gerät senden".
+5. Die Bücher werden auf deinen E-Reader übertragen.
+</details>
+
+<details>
+<summary>Wie bearbeite ich die Metadaten eines Buches?</summary>
+1. Wähle das Buch aus, dessen Metadaten du bearbeiten möchtest.
+2. Klicke auf den Button "Metadaten bearbeiten" in der Menüleiste.
+3. Ändere die gewünschten Informationen wie Titel, Autor, Verlag, etc.
+4. Klicke auf "OK", um die Änderungen zu speichern.
+</details>
+
+<details>
+<summary>Wie kann ich Bücher in Calibre suchen und sortieren?</summary>
+1. Verwende das Suchfeld in der oberen rechten Ecke, um nach Titeln, Autoren oder Stichwörtern zu suchen.
+2. Du kannst auch auf die Spaltenüberschriften in der Bibliotheksansicht klicken, um die Bücher nach Titel, Autor, Datum hinzugefügt, etc. zu sortieren.
+</details>
+
+<details>
+<summary>Wie lösche ich ein Buch aus meiner Bibliothek?</summary>
+1. Wähle das Buch aus, das du löschen möchtest.
+2. Klicke auf den Button "Buch löschen" in der Menüleiste.
+3. Bestätige die Löschung im erscheinenden Dialogfenster.
+</details>
+
+<details>
+<summary>Wie aktualisiere ich Calibre auf die neueste Version?</summary>
+1. Öffne Calibre.
+2. Gehe zu "Einstellungen" und dann zu "Erweitert".
+3. Klicke auf "Nach Updates suchen".
+4. Wenn ein Update verfügbar ist, folge den Anweisungen zur Installation.
+</details>
+
+<details>
+<summary>Wo finde ich weitere Hilfe und Unterstützung zu Calibre?</summary>
+Weitere Hilfe und Unterstützung findest du auf der offiziellen [Calibre Website](https://calibre-ebook.com/help) oder im [Calibre Benutzerhandbuch](https://manual.calibre-ebook.com/).
+</details>
+
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 
